@@ -27,7 +27,7 @@
 Follow these commands to get your app ready with installation.
 
 ```bash
-git clone https://github.com/yashsaini24/pizza-house.git
+git clone https://github.com/sainiji24/pizza-house.git
 ```
 
 ```bash
