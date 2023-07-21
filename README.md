@@ -18,7 +18,7 @@
 
 ## 👀 Preview
 
-### [Live Link](https://treflo-pizza-house.netlify.app/)
+### [Live Link](https://ibmskillbuild-pizza-house.netlify.app/)
 
 ![Preview](/public/preview-image.png)
 
